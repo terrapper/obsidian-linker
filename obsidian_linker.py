@@ -351,10 +351,6 @@ COMMON_FIRST_NAMES = {
     "denise", "amber", "doris", "marilyn", "danielle", "beverly",
     "isabella", "theresa", "diana", "natalie", "brittany", "charlotte",
     "marie", "kayla", "alexis", "lori", "jane", "elaine", "alison",
-    # Names seen in the vault
-    "lidia", "karla", "georgette", "sherry", "wynne", "berta", "aamir",
-    "katie", "ormain", "mandi", "sonya", "tim", "doug", "steve", "mike",
-    "victor", "ed", "dave",
 }
 
 
